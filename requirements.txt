@@ -1,0 +1,9 @@
+numpy
+pandas>=2.0
+Pillow
+opencv-contrib-python
+streamlit>=1.30
+streamlit-option-menu
+cmake
+dlib
+face_recognition

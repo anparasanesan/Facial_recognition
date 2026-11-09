@@ -1,0 +1,19 @@
+# Face photos, encodings and visit logs created when the app runs.
+# These are biometric data: never commit them.
+visitor_database/
+visitor_history/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
